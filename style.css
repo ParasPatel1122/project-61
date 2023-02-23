@@ -1,30 +1,43 @@
-body {
-    text-align: center;
-     background-color: black;
-
+#contact iframe
+{
+    width: 100%;
 }
 
-h1 {
-    font-size: 40px;
-    font-family: sans-serif;
-    font-weight: 300;
+.travel_mainDiv{
+    border: 1px solid lightgrey;
 }
 
-#intro{
-    background-color: rgb(182, 220, 238);
+.travel_mainDiv img{
+    width: 100%;
 }
 
-#origami1{
-   background-color:lightcoral;
+.travel_mainDiv h5{
+    margin: 20px;
 }
 
-#origami2{
-  background-color:lightcoral; 
+.travel_mainDiv h5, .travel_mainDiv p{
+margin-left: 20px;
 }
 
-.line {
-    height: 6px;
-    background-color: #000;
-    width: 70px;
-    margin: 8px auto;
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: orange;
+}
+
+#contact iframe{
+    width:100%;
+}
+
+.book{
+    margin-bottom: 20px;
 }
